@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Online_Order_for_digital_printing_of_Photos.Models.Payment>
+
+<h2>Payments</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Payment Method</th>
+            <th>Payment Status</th>
+            <th>Payment Date</th>
+            <th>Transaction ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var payment in Model)
+        {
+            <tr>
+                <td>@payment.PaymentMethod</td>
+                <td>@payment.PaymentStatus</td>
+                <td>@payment.PaymentDate</td>
+                <td>@payment.TransactionId</td>
+            </tr>
+        }
+    </tbody>
+</table>

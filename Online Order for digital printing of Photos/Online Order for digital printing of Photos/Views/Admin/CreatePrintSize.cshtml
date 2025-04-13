@@ -1,0 +1,31 @@
+﻿@model Online_Order_for_digital_printing_of_Photos.Models.PrintSize
+
+@{
+    ViewData["Title"] = "Create Print Size";
+}
+
+<h2>Create Print Size</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Size">Print Size</label>
+        <input type="text" class="form-control" id="Size" name="Size" value="@Model.Size" required />
+        @if (ViewData.ModelState["Size"]?.Errors.Count > 0)
+        {
+            <span class="text-danger">@ViewData.ModelState["Size"].Errors[0].ErrorMessage</span>
+        }
+    </div>
+
+    <div class="form-group">
+        <label for="Price">Price</label>
+        <input type="number" step="0.01" class="form-control" id="Price" name="Price" value="@Model.Price" required />
+        @if (ViewData.ModelState["Price"]?.Errors.Count > 0)
+        {
+            <span class="text-danger">@ViewData.ModelState["Price"].Errors[0].ErrorMessage</span>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create Print Size</button>
+</form>
+
+<a href="@Url.Action("ViewPrintSizes")">Back to Print Sizes List</a>

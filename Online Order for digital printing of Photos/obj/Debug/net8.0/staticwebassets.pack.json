@@ -1,0 +1,781 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Online Order for digital printing of Photos.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Online Order for digital printing of Photos.cxd5e7adib.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\css\\demo.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\css\\light-bootstrap-dashboard.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\light-bootstrap-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\faces\\face-0.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\faces\\face-0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\faces\\face-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\faces\\face-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\faces\\face-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\faces\\face-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\faces\\face-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\faces\\face-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\faces\\face-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\faces\\face-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\faces\\face-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\faces\\face-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\faces\\face-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\faces\\face-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\faces\\face-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\faces\\face-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\faces\\tim_vector.jpe",
+      "PackagePath": "staticwebassets\\Admin\\img\\faces\\tim_vector.jpe"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\full-screen-image-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\full-screen-image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\loading-bubbles.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\loading-bubbles.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\mask.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\mask.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\new_logo.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\new_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\sidebar-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\sidebar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\sidebar-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\sidebar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\sidebar-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\sidebar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\sidebar-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\sidebar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\sidebar-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\sidebar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\img\\tim_80x80.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\tim_80x80.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\light-bootstrap-dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\light-bootstrap-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\plugins\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\plugins\\bootstrap-switch.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\bootstrap-switch.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\plugins\\chartist.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_alerts.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_bootstrap-switch.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_bootstrap-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_chartist.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_checkbox-radio-switch.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_checkbox-radio-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_footers.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_inputs.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_navbars.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_partial-nucleo-icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_partial-nucleo-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_responsive.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_typography.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_morphing-buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_morphing-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_navbars.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_tabs.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\plugins\\_animate.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\plugins\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\lbd\\plugins\\_datetime-picker.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\lbd\\plugins\\_datetime-picker.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Admin\\sass\\light-bootstrap-dashboard.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\light-bootstrap-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Home\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Home\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Home\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\css\\style.css",
+      "PackagePath": "staticwebassets\\Home\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Home\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\css\\style.scss",
+      "PackagePath": "staticwebassets\\Home\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Home\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\p5.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\slider-img.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\slider-img2.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\slider-img3.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slider-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Home\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Home\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\Home\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\088cfeb7-c4e6-4766-bba9-a5793c2c5008_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\088cfeb7-c4e6-4766-bba9-a5793c2c5008_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\0ca22a80-948f-4d4c-a2aa-bfc6b60d8ec9.png",
+      "PackagePath": "staticwebassets\\uploads\\0ca22a80-948f-4d4c-a2aa-bfc6b60d8ec9.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\12567dd5-0d36-4f89-83bc-b569d0fc2849_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\12567dd5-0d36-4f89-83bc-b569d0fc2849_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\1609846f-5be0-4d09-b1b3-a0a58086759d.png",
+      "PackagePath": "staticwebassets\\uploads\\1609846f-5be0-4d09-b1b3-a0a58086759d.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\21bf28f6-6b85-46a3-bd74-f0e3034c4744.png",
+      "PackagePath": "staticwebassets\\uploads\\21bf28f6-6b85-46a3-bd74-f0e3034c4744.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\384ca142-9763-4f8f-8c58-34943f89d45e.gif",
+      "PackagePath": "staticwebassets\\uploads\\384ca142-9763-4f8f-8c58-34943f89d45e.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\3fb9a2f0-0579-4c4c-bf49-1790fa9f8794.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3fb9a2f0-0579-4c4c-bf49-1790fa9f8794.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\3fd5ecbf-d503-499a-b469-6499c56e467a.png",
+      "PackagePath": "staticwebassets\\uploads\\3fd5ecbf-d503-499a-b469-6499c56e467a.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\44bcec47-aec3-43a8-9f41-c1924bf99092.png",
+      "PackagePath": "staticwebassets\\uploads\\44bcec47-aec3-43a8-9f41-c1924bf99092.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\455eb968-c893-432e-a1bc-c67dfa548a59.png",
+      "PackagePath": "staticwebassets\\uploads\\455eb968-c893-432e-a1bc-c67dfa548a59.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\4baead76-fdfa-4f73-9f8f-1a0dd353fab8_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4baead76-fdfa-4f73-9f8f-1a0dd353fab8_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\4f86b4d5-0422-47f4-ac65-027fcb58bb31.png",
+      "PackagePath": "staticwebassets\\uploads\\4f86b4d5-0422-47f4-ac65-027fcb58bb31.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\5472c09f-8f0e-4a2a-8603-133df764c922_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5472c09f-8f0e-4a2a-8603-133df764c922_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\549193fc-d7df-4c2c-b232-eba73f0b85db.png",
+      "PackagePath": "staticwebassets\\uploads\\549193fc-d7df-4c2c-b232-eba73f0b85db.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\567112df-3d2d-48ae-9b7c-9eb418cdaaed.png",
+      "PackagePath": "staticwebassets\\uploads\\567112df-3d2d-48ae-9b7c-9eb418cdaaed.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\5a2858dc-df66-4615-9ba1-3d02eae01986.png",
+      "PackagePath": "staticwebassets\\uploads\\5a2858dc-df66-4615-9ba1-3d02eae01986.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\5e8bafcc-dc1b-4572-8acc-3d2c21f45551_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5e8bafcc-dc1b-4572-8acc-3d2c21f45551_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\717a8e5f-7bd9-48eb-9cb8-d1eafc32bf62_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\717a8e5f-7bd9-48eb-9cb8-d1eafc32bf62_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\853586e6-6875-4752-9c86-da7d52e7a2ad_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\853586e6-6875-4752-9c86-da7d52e7a2ad_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\980ce6d6-e30e-43e7-a2c5-7f125eb0d50c_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\980ce6d6-e30e-43e7-a2c5-7f125eb0d50c_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\a0597a72-dace-4732-87bf-ce310df9ddf9.png",
+      "PackagePath": "staticwebassets\\uploads\\a0597a72-dace-4732-87bf-ce310df9ddf9.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\a441a478-0aff-48b5-9f77-5db81f130726.png",
+      "PackagePath": "staticwebassets\\uploads\\a441a478-0aff-48b5-9f77-5db81f130726.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\bdef90b9-4b59-416f-bb87-9dd5a97cf8da.png",
+      "PackagePath": "staticwebassets\\uploads\\bdef90b9-4b59-416f-bb87-9dd5a97cf8da.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\c74b958f-fad3-49d1-a18a-c1df422fbea8_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c74b958f-fad3-49d1-a18a-c1df422fbea8_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\d17b7843-72f0-4511-b152-a1b338f379a5.png",
+      "PackagePath": "staticwebassets\\uploads\\d17b7843-72f0-4511-b152-a1b338f379a5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\db93d774-b854-45fc-9b45-0c630bcc0251.png",
+      "PackagePath": "staticwebassets\\uploads\\db93d774-b854-45fc-9b45-0c630bcc0251.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\e151538f-92ab-4c9e-b464-b4f359dad6cd_contract.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e151538f-92ab-4c9e-b464-b4f359dad6cd_contract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\f184d3e1-e707-4c46-8012-fc21bb478804.png",
+      "PackagePath": "staticwebassets\\uploads\\f184d3e1-e707-4c46-8012-fc21bb478804.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\f1ea4c9b-7efb-4337-b78b-5662c533a869.png",
+      "PackagePath": "staticwebassets\\uploads\\f1ea4c9b-7efb-4337-b78b-5662c533a869.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\f564da96-142f-4249-9b37-fbed13ba20df.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f564da96-142f-4249-9b37-fbed13ba20df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\uploads\\support.png",
+      "PackagePath": "staticwebassets\\uploads\\support.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Online Order for digital printing of Photos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Online Order for digital printing of Photos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Online Order for digital printing of Photos.props",
+      "PackagePath": "build\\Online Order for digital printing of Photos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Online Order for digital printing of Photos.props",
+      "PackagePath": "buildMultiTargeting\\Online Order for digital printing of Photos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Online Order for digital printing of Photos.props",
+      "PackagePath": "buildTransitive\\Online Order for digital printing of Photos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

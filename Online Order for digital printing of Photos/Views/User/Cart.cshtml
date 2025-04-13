@@ -1,0 +1,117 @@
+﻿@model IEnumerable<Online_Order_for_digital_printing_of_Photos.Models.OrderDetail>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart</title>
+    <!-- Custom CSS -->
+    <link href="~/Home/css/style.css" rel="stylesheet" />
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .cart-container {
+            margin: 50px auto;
+            background: #fff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            padding: 30px;
+        }
+
+        .table th, .table td {
+            vertical-align: middle;
+            text-align: center;
+        }
+
+        .cart-summary {
+            margin-top: 20px;
+            text-align: right;
+        }
+
+        .btn-primary {
+            width: auto;
+        }
+
+        .empty-cart {
+            text-align: center;
+            font-size: 1.2rem;
+            color: #6c757d;
+        }
+
+        .btn-primary {
+            background-color: #762500;
+            border:none;
+        }
+
+            .btn-primary:hover {
+                background-color: #762500;
+
+            }
+    </style>
+</head>
+<body>
+    @{
+        Layout = "~/Views/Shared/_HomeLayout.cshtml";
+        ViewData["Title"] = "Cart";
+        ViewData["HideHeaderFooter"] = false;
+    }
+
+    <div class="cart-container">
+        @if (Model != null && Model.Any())
+        {
+            <h2 class="text-center mb-4">Your Shopping Cart</h2>
+            <table class="table table-bordered">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Photo</th>
+                        <th>Print Size</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Total Price</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td><img src="@item.Photo.FilePath" alt="Photo" class="img-thumbnail" width="100" /></td>
+                            <td>@item.PrintSize.Size</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.PrintSize.Price</td>
+                            <td>@(item.Quantity * item.PrintSize.Price)</td>
+                            <td>
+                                <form asp-action="RemoveFromCart" method="post">
+                                    <input type="hidden" name="orderDetailId" value="@item.OrderDetailId" />
+                                    <button class="btn btn-danger btn-sm">Remove</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <div class="cart-summary">
+                <h3>Total Amount: <span class="text-success">@Model.Sum(m => m.Quantity * m.PrintSize.Price).ToString("C")</span></h3>
+                <a asp-action="Checkout" class="btn btn-primary mt-3">Proceed to Checkout</a>
+            </div>
+        }
+        else
+        {
+            <p class="empty-cart">Your cart is empty.</p>
+        }
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Home/js/jquery-3.4.1.min.js"></script>
+    <script src="~/Home/js/bootstrap.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="~/Home/js/custom.js"></script>
+</body>
+</html>

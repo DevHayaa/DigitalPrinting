@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Payment";
+}
+
+<h2>Total Price: $@ViewBag.TotalPrice</h2>
+
+<form method="post">
+    <label>Card Number:</label>
+    <input type="text" name="cardNumber" required />
+    <button type="submit">Pay</button>
+</form>

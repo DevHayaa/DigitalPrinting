@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>My Image</title>
+
+    <!-- slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="Home/css/bootstrap.css" />
+    <!-- fonts awesome style -->
+    <link href="Home/css/font-awesome.min.css" rel="stylesheet" />
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+    <link href="Home/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="Home/css/responsive.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <div class="hero_area">
+        <!-- header section starts -->
+        @if (!ViewData.ContainsKey("HideHeaderFooter") || !(bool)ViewData["HideHeaderFooter"])
+        {
+            <header class="header_section">
+                <nav class="navbar navbar-expand-lg custom_nav-container">
+                    <div class="custom_menu-btn">
+                        <button onclick="openNav()">
+                            <span class="s-1"> </span>
+                            <span class="s-2"> </span>
+                            <span class="s-3"> </span>
+                        </button>
+                    </div>
+                    <div id="myNav" class="overlay">
+                        <div class="menu_btn-style">
+                            <button onclick="closeNav()">
+                                <span class="s-1"> </span>
+                                <span class="s-2"> </span>
+                                <span class="s-3"> </span>
+                            </button>
+                        </div>
+                        <div class="overlay-content">
+                            <a class="active" href="index.html">
+                                Home
+                            </a>
+                            <a class="" asp-controller="User" asp-action="About">
+                                About
+                            </a>
+                            <a class="" href="about.html">
+                                All Product
+                            </a>
+
+                            <a asp-controller="User" asp-action="UploadPhoto" class="nav-link">Pick & Print</a>
+
+
+                        </div>
+                    </div>
+                    <a class="navbar-brand" href="index.html">
+                        <span>
+                            MyImage
+                        </span>
+                    </a>
+                    <!-- Icons aligned at the end of the navbar -->
+                    <div class="navbar-icons ml-auto">
+                        <a asp-controller="Account" asp-action="Login" class="icon-btn">
+                            <i class="fa fa-sign-in fa-2x" style="color:black"></i> <!-- Login Icon -->
+                        </a>
+                        <a asp-controller="Account" asp-action="Register" class="icon-btn">
+                            <i class="fa fa-user-plus fa-2x" style="color:black"></i> <!-- Register Icon -->
+                        </a>
+                        <a asp-controller="User" asp-action="Cart" class="icon-btn">
+                            <i class="fa fa-shopping-cart fa-2x" style="color:black"></i> <!-- Cart Icon -->
+                        </a>
+                    </div>
+                </nav>
+            </header>
+        }
+        <!-- end header section -->
+        @RenderBody()
+        <!-- footer section -->
+        @if (!ViewData.ContainsKey("HideHeaderFooter") || !(bool)ViewData["HideHeaderFooter"])
+        {
+            <footer class="footer_section">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xl-6">
+                            <p>
+                                &copy; <span id="displayYear"></span> All Rights Reserved. Design
+                                by
+                                <a href="#">My Image</a>
+                            </p>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="link_box">
+                                <a class="" href="index.html">
+                                    Home
+                                </a>
+                                <a class="" href="about.html">
+                                    About
+                                </a>
+                                <a class="" href="portfolio.html">
+                                    Portfolio
+                                </a>
+                                <a class="" href="team.html">
+                                    Team
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        }
+        <!-- footer section -->
+        <script src="Home/js/jquery-3.4.1.min.js"></script>
+        <script src="Home/js/bootstrap.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+        <script src="Home/js/custom.js"></script>
+        <!-- Google Map -->
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
+        <!-- End Google Map -->
+
+</body>
+
+</html>

@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <!-- Custom CSS -->
+    <link href="~/Home/css/style.css" rel="stylesheet" />
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    @* Using shared layout for header and footer *@
+    @{
+        Layout = "~/Views/Shared/_HomeLayout.cshtml";
+        ViewData["Title"] = "About";
+        ViewData["HideHeaderFooter"] = false; // Footer and header will now be visible
+    }
+<!-- slider section -->
+<section class="about_section ">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="img-box col-lg-8 col-md-7">
+                    <img src="~/Home/images/about-img.jpg" alt="" />
+            </div>
+            <div class="detail-box detail_box_common col-lg-4 col-md-5 text_center">
+                <div class="heading_container heading_center">
+                    <h2>
+                        About Us
+                    </h2>
+                </div>
+                <p>
+                    At MyImage, we believe that every photograph tells a story and deserves to be cherished beyond the digital screen. Our mission is to bring your precious memories to life through high-quality photo printing services, making them tangible keepsakes for you and your loved ones.
+
+                    Founded by a passionate group of photography enthusiasts, MyImage is dedicated to providing an effortless and enjoyable experience for our customers. Whether it's a special family moment, a scenic travel memory, or a snapshot of your favorite pet, we’re here to help you preserve it beautifully.
+
+
+                </p>
+                <a href="">
+                    Read More
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Home/js/jquery-3.4.1.min.js"></script>
+    <script src="~/Home/js/bootstrap.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+    </script>
+    <script src="~/Home/js/custom.js"></script>
+</body>
+</html>
+

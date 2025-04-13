@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Online Order for digital printing of Photos.props" />
+</Project>

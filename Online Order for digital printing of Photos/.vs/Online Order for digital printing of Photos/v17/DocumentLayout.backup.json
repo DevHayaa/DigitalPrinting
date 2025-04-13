@@ -1,0 +1,781 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\home\\uploadphoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\home\\uploadphoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\wwwroot\\home\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\wwwroot\\home\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\home\\selectfolder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\home\\selectfolder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\home\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\home\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\home\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\home\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\createprintsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\createprintsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\editprintsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\editprintsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\viewphotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\viewphotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\viewprintsizes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\viewprintsizes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\viewusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\viewusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\middleware\\rolebasedaccessmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\middleware\\rolebasedaccessmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\viewpayments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\viewpayments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\online order for digital printing of photos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\online order for digital printing of photos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\user\\completeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\user\\completeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\user\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\user\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\user\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\user\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\models\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\models\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\models\\photouploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\models\\photouploadviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\models\\myimagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\models\\myimagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\controllers\\printsizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\controllers\\printsizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\views\\order\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\views\\order\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\controllers\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\controllers\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\Photosec Free Website Template - Free-CSS.com\\photosec-html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\examples\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|c:\\users\\hp\\source\\repos\\online order for digital printing of photos\\online order for digital printing of photos\\migrations\\20241211165331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19FF944-3D48-4D3C-8A46-9CF1366CE45C}|Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj|solutionrelative:online order for digital printing of photos\\migrations\\20241211165331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectFolder.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\SelectFolder.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Home\\SelectFolder.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\SelectFolder.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Home\\SelectFolder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:40:53.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Home\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\Account\\Login.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Home\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T21:47:05.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_HomeLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Shared\\_HomeLayout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Shared\\_HomeLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T15:47:02.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.scss",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\css\\style.scss",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\wwwroot\\Home\\css\\style.scss",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\Home\\css\\style.scss",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\wwwroot\\Home\\css\\style.scss",
+              "ViewState": "AgIAAIQDAAAAAAAAAAAUwJgDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-12-22T12:59:28.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:54:49.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\Register.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\Register.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\Register.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:54:09.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadPhoto.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\UploadPhoto.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Home\\UploadPhoto.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\UploadPhoto.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Home\\UploadPhoto.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:47:03.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAkwA0BAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T15:53:20.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Home\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\Account\\Register.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Home\\Account\\Register.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T21:46:41.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewOrders.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\ViewOrders.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewOrders.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\ViewOrders.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAArwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:24:07.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePrintSize.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\CreatePrintSize.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\CreatePrintSize.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\CreatePrintSize.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\CreatePrintSize.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:05:29.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditPrintSize.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\EditPrintSize.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\EditPrintSize.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\EditPrintSize.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\EditPrintSize.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:06:03.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewPhotos.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewPhotos.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\ViewPhotos.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewPhotos.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\ViewPhotos.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAArwDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T18:51:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewPrintSizes.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewPrintSizes.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\ViewPrintSizes.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewPrintSizes.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\ViewPrintSizes.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:04:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewUsers.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\ViewUsers.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewUsers.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\ViewUsers.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T16:20:01.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAArwEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T21:25:18.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAnwEMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:49:51.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleBasedAccessMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Middleware\\RoleBasedAccessMiddleware.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Middleware\\RoleBasedAccessMiddleware.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Middleware\\RoleBasedAccessMiddleware.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Middleware\\RoleBasedAccessMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:29:42.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA5wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:29:43.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Program.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Program.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:52:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T20:15:24.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T12:08:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewPayments.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewPayments.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\ViewPayments.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\ViewPayments.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\ViewPayments.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T19:24:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T19:34:22.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Online Order for digital printing of Photos",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Online Order for digital printing of Photos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T20:31:09.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:50:33.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-27T14:28:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAjwPYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:40:13.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CompleteOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\User\\CompleteOrder.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\User\\CompleteOrder.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\User\\CompleteOrder.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\User\\CompleteOrder.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAQwJ4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:20:13.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Models\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\CartViewModel.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Models\\CartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:21:42.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CheckoutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\CheckoutViewModel.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Models\\CheckoutViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\CheckoutViewModel.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Models\\CheckoutViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:22:11.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\User\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\User\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\User\\Checkout.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\User\\Checkout.cshtml",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:19:18.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\User\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\User\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\User\\Cart.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\User\\Cart.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAQwHQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T20:41:32.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PhotoUploadViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\PhotoUploadViewModel.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Models\\PhotoUploadViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\PhotoUploadViewModel.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Models\\PhotoUploadViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:39:09.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\User.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:27:07.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:10:45.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PhotoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\PhotoController.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Controllers\\PhotoController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\PhotoController.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Controllers\\PhotoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:25:53.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MyImageDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\MyImageDbContext.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Models\\MyImageDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Models\\MyImageDbContext.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Models\\MyImageDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:42:30.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PrintSizeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\PrintSizeController.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Controllers\\PrintSizeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\PrintSizeController.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Controllers\\PrintSizeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:53:36.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:09:07.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Order\\Payment.cshtml",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Views\\Order\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Views\\Order\\Payment.cshtml",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Views\\Order\\Payment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:45:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\DataContext.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Controllers\\DataContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Controllers\\DataContext.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Controllers\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:49:22.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Photosec Free Website Template - Free-CSS.com\\photosec-html\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Photosec Free Website Template - Free-CSS.com\\photosec-html\\index.html",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Photosec Free Website Template - Free-CSS.com\\photosec-html\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Photosec Free Website Template - Free-CSS.com\\photosec-html\\index.html",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAawNABAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-11T15:44:54.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20241211165331_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Migrations\\20241211165331_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Online Order for digital printing of Photos\\Migrations\\20241211165331_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Online Order for digital printing of Photos\\Online Order for digital printing of Photos\\Migrations\\20241211165331_InitialCreate.cs",
+              "RelativeToolTip": "Online Order for digital printing of Photos\\Migrations\\20241211165331_InitialCreate.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:53:32.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\examples\\dashboard.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\examples\\dashboard.html",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\examples\\dashboard.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\examples\\dashboard.html",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAqwAkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-03T21:21:06.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\index.html",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\light-bootstrap-dashboard-master\\light-bootstrap-dashboard-master\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-03T21:17:21.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
